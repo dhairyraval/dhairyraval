@@ -3,11 +3,7 @@
 
 ## Who am I?
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines= 
-  A+Computer+Science+Student;
-  React+Developer;
-  Aspiring%20Chef%20:)&vCenter=true&font=Poppins;
-  "></a>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&vCenter=true&lines=A+Computer+Science+Student;React+Developer;Aspiring+Chef+%3AP)](https://git.io/typing-svg)
 
 - 👨‍💻 I’m currently working on **building side projects**
 - 📚 I’m currently learning **Kotlin, AWS, Networking systems**
