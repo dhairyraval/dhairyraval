@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hello Welcome to my profile 👋
+
+My name is Dhairy Raval
+
+## Who am I?
+
+![alt text](https://i.ibb.co/zVRMYSH/IMG-20210623-082826.jpg)
 
 <!--
-**Nuey2310/Nuey2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
