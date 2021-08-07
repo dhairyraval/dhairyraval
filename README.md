@@ -11,7 +11,6 @@
 - ⛱️ In my free time I'm usually: **playing football, volleyball or trying new recipes from youtube**
 - 📥 Contact me: **dhairyraval@gmail.com** or **dhairyraval@dal.ca**
 
----
 
 ## Connect with me
 
@@ -22,7 +21,6 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dhairyraval) &nbsp;
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyraval@gmail.com)
 
----
 
 ## Languages and Tools
 <br>
