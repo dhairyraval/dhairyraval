@@ -57,5 +57,3 @@
 </div>
 
 ---
-
-[DhairyRaval](https://github.com/Nuey2310)
