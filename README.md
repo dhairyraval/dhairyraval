@@ -45,8 +45,14 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+ <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
+  </a>
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+ <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 </p>
 
