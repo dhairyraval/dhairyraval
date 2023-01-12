@@ -3,9 +3,9 @@
 
 ## Who am I?
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&vCenter=true&lines=A+Computer+Science+Student;React+Developer;Aspiring+Chef+%3AP)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&vCenter=true&lines=A+Computer+Science+Student;React+Developer;Aspiring+Chef)](https://git.io/typing-svg)
 
-- 👨‍💻 I’m currently working on **building side projects**
+- 👨‍💻 I’m currently looking for **Software Developer roles** and working on **side projects**
 - 📚 I’m currently learning **Kotlin, AWS, Networking systems**
 - 👐 I’m looking to collaborate on **web, mobile apps**
 - ⛱️ In my free time I'm usually: **playing football, volleyball or trying new recipes from youtube**
@@ -55,12 +55,22 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 </p>
-
 <br>
-<div>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyraval&theme=react&layout=compact" />
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-</div>
+<picture>
+<source
+   srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhairyraval&show_icons=true&theme=dark&include_all_commits=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhairyraval&show_icons=true" />
+</picture>
+
+<picture>
+<source
+   srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhairyraval&theme=react&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhairyraval&show_icons=true" />
+</picture>
+
 
 ---
