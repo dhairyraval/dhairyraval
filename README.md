@@ -58,7 +58,7 @@
 
 <br>
 <div>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=dhairyraval&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyraval&theme=react&layout=compact" />
 </div>
 
