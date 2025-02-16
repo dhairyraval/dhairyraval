@@ -1,15 +1,16 @@
-#### Hello <img height="20" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+### Hello <img height="20" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-I'm Dhairy, welcome to my Github!
-Here's some stuff about me -->
+#### I'm Dhairy, welcome to my Github! Here's some stuff about me -->
 
-##### Cybersecurity | Homelabs | RTFM hater | Aspiring Pizza Chef 👨🏻‍🍳
+#### Cybersecurity | Homelabs | RTFM hater | Aspiring Pizza Chef 👨🏻‍🍳
 
-- CompTIA Security+ [Certified](https://www.credly.com/org/comptia/badge/security)
+- 🏆 CompTIA Security+ [Certified](https://www.credly.com/org/comptia/badge/security)
 
-- Exploring security vulnerabilities and penetration testing.
-- Building homelabs and experimenting with network security.
-- Spending way too much time on [HTB](https://www.hackthebox.com/) & [OverTheWire](https://overthewire.org/) CTFs before caving and reading writeups. 
+- 🔎 Exploring security vulnerabilities and penetration testing.
+- ⚙️ Building homelabs and experimenting with network security.
+- 😓 Spending way too much time on [HTB](https://www.hackthebox.com/) & [OverTheWire](https://overthewire.org/) CTFs before caving and reading writeups. 
 
 ---
 Always up for a chat about IT security, homelabs, or any cool tech projects—hit me up on [LinkedIn](https://www.linkedin.com/in/dhairyraval) or [Email](mailto:dhairyraval@gmail.com)
+
+
