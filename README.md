@@ -4,7 +4,7 @@
 
 #### Cybersecurity | Homelabs | RTFM hater | Aspiring Pizza Chef 👨🏻‍🍳
 
-- 🏆 CompTIA Security+ [Certified](https://www.credly.com/org/comptia/badge/security)
+- 🏆 CompTIA Security+ [Certified](https://www.credly.com/badges/147bd278-2d10-4d7b-91f2-19008a6a8182/linked_in)
 
 - 🔎 Exploring security vulnerabilities and penetration testing.
 - ⚙️ Building homelabs and experimenting with network security.
