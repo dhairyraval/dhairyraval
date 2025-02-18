@@ -11,6 +11,6 @@
 - 😓 Spending way too much time on [HTB](https://www.hackthebox.com/) & [OverTheWire](https://overthewire.org/) CTFs before caving and reading writeups. 
 
 ---
-Always up for a chat about IT security, homelabs, or any cool tech projects—hit me up on [LinkedIn](https://www.linkedin.com/in/dhairyraval/) or [Email](mailto:dhairyraval@gmail.com)
+Always up for a chat about IT security, homelabs, or any cool tech projects—hit me up on [LinkedIn](https://www.linkedin.com/in/dhairy-raval/) or [Email](mailto:dhairyraval@gmail.com)
 
 
